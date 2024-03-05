@@ -7,7 +7,9 @@ The main purpose of this project was to use data science to make intelligent bus
 ## Team Members:
 
 Ben Ogle
+
 UE Wang
+
 Roger Qiu
 
 ## Data Source:
